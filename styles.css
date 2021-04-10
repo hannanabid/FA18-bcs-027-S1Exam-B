@@ -1,0 +1,42 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    
+}
+header a button{
+    font-size: 20px;
+    margin-top: 15px;
+    text-decoration: none;
+    border: none;
+    background-color: white;
+  
+}
+h4{
+    text-align: center;
+}
+#under{
+
+}
+p{
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+#partner{
+    margin-left: 100px;
+    
+}
+#events{
+    display: flex;
+    justify-content: space-between;
+}
+#second{
+    background-color: lightgray;
+}
+.fle{
+    text-align: center;
+}
+.mobile{
+    display: flex;
+    justify-content: center;
+}
